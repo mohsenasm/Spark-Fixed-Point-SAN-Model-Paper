@@ -1,0 +1,37 @@
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 30, # tasks","stage 30, sum task time","stage 30, sum biggest task time of each exec","stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 28, # tasks","stage 28, sum task time","stage 28, sum biggest task time of each exec","stage 29, # tasks","stage 29, sum task time","stage 29, sum biggest task time of each exec"
+spark-history/application_1597492306819_0059,query40_cluster_500G,40,500,beta,8,27,342660,200,16541.0,4844.0,572,874680.0,24173.0,43,81239.0,18314.0,200,1715672.0,114255.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 26, # tasks","stage 26, sum task time","stage 26, sum biggest task time of each exec"
+spark-history/application_1597492306819_0042,query52_cluster_500G,52,500,alpha,2,26,321465,200,23005.0,7765.0,505,623507.0,4745.0
+spark-history/application_1597492306819_0058,query52_cluster_500G,52,500,alpha,8,26,65543,200,36352.0,10675.0,505,484065.0,27603.0
+spark-history/application_1597492306819_0048,query52_cluster_500G,52,500,alpha,8,26,68553,200,48828.0,12785.0,505,495698.0,27469.0
+spark-history/application_1597492306819_0046,query52_cluster_500G,52,500,alpha,8,26,63373,200,35462.0,9885.0,505,467646.0,27565.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 30, # tasks","stage 30, sum task time","stage 30, sum biggest task time of each exec","stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 28, # tasks","stage 28, sum task time","stage 28, sum biggest task time of each exec","stage 29, # tasks","stage 29, sum task time","stage 29, sum biggest task time of each exec"
+spark-history/application_1597492306819_0043,query40_cluster_500G,40,500,beta,8,27,410047,200,21505.0,4957.0,572,829019.0,14356.0,43,82209.0,15720.0,200,1673252.0,135324.0
+spark-history/application_1597492306819_0053,query40_cluster_500G,40,500,beta,8,27,308381,200,19025.0,3460.0,572,939547.0,29995.0,43,87011.0,19449.0,200,1406764.0,124003.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 26, # tasks","stage 26, sum task time","stage 26, sum biggest task time of each exec"
+spark-history/application_1597492306819_0052,query52_cluster_500G,52,500,alpha,8,26,66424,200,35839.0,10345.0,505,492353.0,27007.0
+spark-history/application_1597492306819_0060,query52_cluster_500G,52,500,alpha,8,26,63881,200,37293.0,8538.0,505,470450.0,29471.0
+spark-history/application_1597492306819_0054,query52_cluster_500G,52,500,alpha,8,26,69115,200,34399.0,8914.0,505,515892.0,26989.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 30, # tasks","stage 30, sum task time","stage 30, sum biggest task time of each exec","stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 28, # tasks","stage 28, sum task time","stage 28, sum biggest task time of each exec","stage 29, # tasks","stage 29, sum task time","stage 29, sum biggest task time of each exec"
+spark-history/application_1597492306819_0049,query40_cluster_500G,40,500,beta,8,27,333051,200,16748.0,3563.0,572,906106.0,23732.0,43,94702.0,24760.0,200,1636744.0,135545.0
+spark-history/application_1597492306819_0045,query40_cluster_500G,40,500,beta,8,27,275377,200,16095.0,4186.0,43,89413.0,24562.0,572,853219.0,19137.0,200,1229244.0,104964.0
+spark-history/application_1597492306819_0047,query40_cluster_500G,40,500,beta,8,27,302892,200,25588.0,4944.0,572,853778.0,23075.0,43,73765.0,16375.0,200,1437231.0,113224.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 26, # tasks","stage 26, sum task time","stage 26, sum biggest task time of each exec"
+spark-history/application_1597492306819_0056,query52_cluster_500G,52,500,alpha,8,26,73292,200,36616.0,10621.0,505,547257.0,61025.0
+spark-history/application_1597492306819_0050,query52_cluster_500G,52,500,alpha,8,26,65425,200,38493.0,10348.0,505,481287.0,28183.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 30, # tasks","stage 30, sum task time","stage 30, sum biggest task time of each exec","stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 28, # tasks","stage 28, sum task time","stage 28, sum biggest task time of each exec","stage 29, # tasks","stage 29, sum task time","stage 29, sum biggest task time of each exec"
+spark-history/application_1597492306819_0057,query40_cluster_500G,40,500,beta,8,27,300682,200,16414.0,3796.0,43,89402.0,25423.0,572,895988.0,24377.0,200,1395929.0,129664.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 26, # tasks","stage 26, sum task time","stage 26, sum biggest task time of each exec"
+spark-history/application_1597492306819_0044,query52_cluster_500G,52,500,alpha,8,26,64252,200,33130.0,9206.0,505,477750.0,26390.0
+
+file_path,app_name,query_number,data_scale,queue,# executors,last_job_id,job_runtime,"stage 30, # tasks","stage 30, sum task time","stage 30, sum biggest task time of each exec","stage 27, # tasks","stage 27, sum task time","stage 27, sum biggest task time of each exec","stage 28, # tasks","stage 28, sum task time","stage 28, sum biggest task time of each exec","stage 29, # tasks","stage 29, sum task time","stage 29, sum biggest task time of each exec"
+spark-history/application_1597492306819_0051,query40_cluster_500G,40,500,beta,8,27,315759,200,21898.0,6020.0,43,95040.0,26686.0,572,889743.0,28448.0,200,1499382.0,106432.0
+spark-history/application_1597492306819_0061,query40_cluster_500G,40,500,beta,8,27,286903,200,17062.0,3683.0,572,839389.0,21949.0,43,80778.0,18247.0,200,1344576.0,90094.0
+spark-history/application_1597492306819_0055,query40_cluster_500G,40,500,beta,8,27,259458,200,15350.0,3374.0,43,92114.0,25079.0,572,877273.0,19987.0,200,1059498.0,93466.0
