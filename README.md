@@ -4,4 +4,4 @@
 
 + One can reproduce the results demonstrated in the manuscript cited below using this repository and the Mobius tool.
 
-  S. Karimian-Aliabadi, M. Aseman-Manzar, R. Entezari-Maleki, D. Ardagna, A. Movaghar, "Fixed-point Iteration Approach to Spark Scalable Performance Modeling and Evaluation", Journal of IEEE Transactions on Cloud Computing (Under review).
+  S. Karimian-Aliabadi, M. Aseman-Manzar, R. Entezari-Maleki, D. Ardagna, B. Egger, A. Movaghar, "Fixed-point Iteration Approach to Spark Scalable Performance Modeling and Evaluation", Journal of IEEE Transactions on Cloud Computing (Under review).
